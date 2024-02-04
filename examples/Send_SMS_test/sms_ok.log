@@ -1,0 +1,2060 @@
+This log shoes the process to trasmit correctly SMS messages trough the sketch main.c:
+
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,1
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,1
+
+OK
+Network connected
+
+---Starting GPRS TEST---
+
+Connecting to: zap.vivo.com.br
+AT+CIPSHUT
+
+SHUT OK
+AT+CGATT=0
+
+OK
+AT+SAPBR=3,1,"Contype","GPRS"
+
+OK
+AT+SAPBR=3,1,"APN","zap.vivo.com.br"
+
+OK
+AT+SAPBR=3,1,"USER","vivo"
+
+OK
+AT+SAPBR=3,1,"PWD","vivo"
+
+OK
+AT+CGDCONT=1,"IP","zap.vivo.com.br"
+
+OK
+AT+CGATT=1
+
+OK
+AT+CGACT=1,1
+
+OK
+AT+SAPBR=1,1
+
+OK
+AT+SAPBR=2,1
+
++SAPBR: 1,1,"100.90.226.104"
+
+OK
+AT+CIPMUX=1
+
+OK
+AT+CIPQSEND=1
+
+OK
+AT+CIPRXGET=1
+
+OK
+AT+CSTT="zap.vivo.com.br","vivo","vivo"
+
+OK
+AT+CIICR
+
+OK
+AT+CIFSR;E0
+
+100.90.226.104
+
+OK
+GPRS status: AT+CGATT?
+
++CGATT: 1
+
+OK
+AT+CIFSR;E0
+
+100.90.226.104
+
+OK
+connected
+AT+CCID
+
+XXXXXXXXXXXXXXXXXXXX
+
+OK
+CCID: XXXXXXXXXXXXXXXXXXXX
+AT+GSN
+
+YYYYYYYYYYYYYY
+
+OK
+IMEI: YYYYYYYYYYYYYY
+AT+COPS?
+
++COPS: 0,0,"TIM BRA VIVO",3
+
+OK
+Operator: TIM BRA VIVO
+AT+CIFSR;E0
+
+100.90.226.104
+
+OK
+Local IP: 1759664740
+AT+CSQ
+
++CSQ: 17,0
+
+OK
+Signal quality: 17
+
++CPSI: GSM,Online,724-04,0xb3e0,24735,86 EGSM 900,-81,0,24-24
+
+OK
+
+
+---End of GPRS TEST---
+
+AT+CIPSHUT
+
+SHUT OK
+AT+CGATT=0
+
++SAPBR 1: DEACT
+
+OK
+AT+CGATT?
+
++CGATT: 0
+
+OK
+GPRS disconnected
+AT+CMGF=1
+
+OK
+AT+CSCS="GSM"
+
+OK
+AT+CMGS="+9999999999999"
+
+>Hello from YYYYYYYYYYYYYY␚
++CMGS: 42
+
+OK
+AT+CPOWD=1
+
+NORMAL POWER DOWN
+AT+CPOWD=1
+Poweroff.
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,2
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,2
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,1
+
+OK
+AT+CEREG?
+
++CEREG: 0,0
+
+OK
+AT+CGREG?
+
++CGREG: 0,1
+
+OK
+Network connected
+
+---Starting GPRS TEST---
+
+Connecting to: zap.vivo.com.br
+AT+CIPSHUT
+
+SHUT OK
+AT+CGATT=0
+
+OK
+AT+SAPBR=3,1,"Contype","GPRS"
+
+OK
+AT+SAPBR=3,1,"APN","zap.vivo.com.br"
+
+OK
+AT+SAPBR=3,1,"USER","vivo"
+
+OK
+AT+SAPBR=3,1,"PWD","vivo"
+
+OK
+AT+CGDCONT=1,"IP","zap.vivo.com.br"
+
+OK
+AT+CGATT=1
+
+OK
+AT+CGACT=1,1
+
+OK
+AT+SAPBR=1,1
+
+OK
+AT+SAPBR=2,1
+
++SAPBR: 1,1,"100.90.226.104"
+
+OK
+AT+CIPMUX=1
+
+OK
+AT+CIPQSEND=1
+
+OK
+AT+CIPRXGET=1
+
+OK
+AT+CSTT="zap.vivo.com.br","vivo","vivo"
+
+OK
+AT+CIICR
+
+OK
+AT+CIFSR;E0
+
+100.90.226.104
+
+OK
+GPRS status: AT+CGATT?
+
++CGATT: 1
+
+OK
+AT+CIFSR;E0
+
+100.90.226.104
+
+OK
+connected
+AT+CCID
+
+XXXXXXXXXXXXXXXXXXXX
+
+OK
+CCID: XXXXXXXXXXXXXXXXXXXX
+AT+GSN
+
+YYYYYYYYYYYYYY
+
+OK
+IMEI: YYYYYYYYYYYYYY
+AT+COPS?
+
++COPS: 0,0,"TIM BRA VIVO",3
+
+OK
+Operator: TIM BRA VIVO
+AT+CIFSR;E0
+
+100.90.226.104
+
+OK
+Local IP: 1759664740
+AT+CSQ
+
++CSQ: 17,0
+
+OK
+Signal quality: 17
+
++CPSI: GSM,Online,724-04,0xb3e0,24735,86 EGSM 900,-81,0,24-24
+
+OK
+
+
+---End of GPRS TEST---
+
+AT+CIPSHUT
+
+SHUT OK
+AT+CGATT=0
+
++SAPBR 1: DEACT
+
+OK
+AT+CGATT?
+
++CGATT: 0
+
+OK
+GPRS disconnected
+AT+CMGF=1
+
+OK
+AT+CSCS="GSM"
+
+OK
+AT+CMGS="+99999999999"
+
+>Hello from YYYYYYYYYYYYYY␚
++CMGS: 42
+
+OK
+AT+CPOWD=1
+
+NORMAL POWER DOWN
+AT+CPOWD=1
+Poweroff.
