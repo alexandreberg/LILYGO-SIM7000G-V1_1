@@ -11,4 +11,6 @@ Created a folder 'examples' with the following examples:
 
 3- 'Arduino_LoraShield/LoRaReceiver' receive messages from LoRa Radio.
 
+4- 'Arduino_LoraShield/LoRaSender' Send messages to LoRa Radio.
 
+*All these examples were tested and are running.
